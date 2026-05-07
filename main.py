@@ -114,7 +114,7 @@ class CollectingGame:
 
 
     def draw_window(self):
-        self.window.fill((250, 250, 250))
+        self.window.fill((230, 220, 250))
 
         self.window.blit(self.door, (self.door_x, self.door_y))
 
