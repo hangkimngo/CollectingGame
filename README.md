@@ -80,7 +80,7 @@ The project uses classes to separate game logic:
 
 ## Preview
 
-<img src="assets/gameplay.png" width="600">
+<img src="gameplay.png" width="600">
 
 ## Author
 
